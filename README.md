@@ -2,6 +2,26 @@
 
 ### *Mobile Ubuntu Server Environment — Jaringan Operasi Koneksi OpenSSH Web Interface*
 
+```
+        .-######-.
+       /  ______  \
+      |  /      \  |
+      | |  o  o  | |
+      | |    >   | |
+      |  \  ___ /  |
+       \  \_____/  /
+        '-------'
+          |   |
+       ___|   |___
+      /   |   |   \
+     |    |   |    |
+     |    | o |    |
+     |    | o |    |
+      \   |   |   /
+       '--|   |--'
+         JOKOWI
+```
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa-Indonesia-red.svg)]()
 [![Ramah Pemula](https://img.shields.io/badge/Level-Pemula%20Friendly-blue.svg)]()
